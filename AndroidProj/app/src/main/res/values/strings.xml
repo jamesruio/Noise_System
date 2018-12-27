@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">智能手机噪声收集</string>
+    <string name="title_search">查询</string>
+    <string name="title_home">主页</string>
+    <string name="title_menu">我的</string>
+
+    <string name="title_help">使用说明</string>
+    <string name="title_clean">清空数据</string>
+    <string name="title_refresh">刷新GPS</string>
+    <string name="title_logout">退出登录</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="context_menu">Context menu</string>
+    <string name="test_currentresult"></string>
+    <string name="test_currenttime"></string>
+    <string name="test_location"></string>
+    <string name="test_res">"当前设置是：\n每1秒钟测试一次实时分贝值。"</string>
+    <string name="test_result">请打开GPS，并保持网络畅通。</string>
+    <string name="test_result_sec"></string>
+    <string name="title_activity_map">Task-Map</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="highrespic">高分辨率全局地图/340KB</string>
+    <string name="lowrespic">低分辨率全局地图/160KB</string>
+    <string name="localpic">局部地图/150KB</string>
+    <string name="viewtext">下载地图</string>
+    <string name="title_activity_help">Help</string>
+    <string name="helpContent">使用说明\n\n</string>
+    <string name="CopyRight">Copyright © 2017 Sheep. All rights reserved.</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="hnu">信息科学与工程学院\n College of Computer Science and Electronic Engineering</string>
+</resources>
